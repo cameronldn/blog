@@ -129,7 +129,7 @@ author:
       icon: "fa-solid fa-code"
       url: "https://hyperskill.org/my-learning/621878531"
     - label: "Bluesky"
-      icon: "fa-brands fa-bluesky"e"
+      icon: "fa-brands fa-bluesky"
       url: "https://bsky.app/profile/cldn.bsky.social"
     - label: "Feed"
       icon: "fa-solid fa-square-rss"
