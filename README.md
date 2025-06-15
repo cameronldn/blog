@@ -1,2 +1,5 @@
-# blog
-Personal Blog built with Jekyll
+# Personal Blog
+
+https://cldn.dev/blog/
+
+Built with Jekyll.
